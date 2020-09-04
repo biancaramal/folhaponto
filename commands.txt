@@ -1,0 +1,13 @@
+git init ->  inicia projeto
+
+git status -> checa arquivos fora do repositorio
+
+git add . -> inclui esses arquivos no repositorio
+
+git commit -m "seu commit" -> adiciona titulo a modificação
+
+git push -> sobe modificação como pedido de alteração (Pull Request)
+
+(Se for o primeiro commit da modificação, usar o comando 
+    -> git push origin branch/name
+)
